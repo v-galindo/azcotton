@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arizona Cotton Research and Protection Council",
-    "currentPage": "page33.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 434,
+    "uniqCompNum": 438,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -896,7 +896,7 @@
       "settings": {
         "meta_descr": "Information about the AF36 Program",
         "title": "AF36 Program",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -1826,7 +1826,7 @@
       "settings": {
         "meta_descr": "ACRPC research",
         "title": "Research",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -2354,7 +2354,7 @@
       "settings": {
         "meta_descr": "Information about the ACRPC council members",
         "title": "Council",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -2955,7 +2955,7 @@
       "settings": {
         "meta_descr": "Information about the Plower Program",
         "title": "Plower Program",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -3596,7 +3596,7 @@
       "settings": {
         "meta_descr": "Pink Bollworm Eradication Program Info",
         "title": "Pink Bollworm",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -4243,7 +4243,7 @@
       "settings": {
         "meta_descr": "ACRPC Non Discrimination Policy",
         "title": "Non Discrimination Policy",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -4793,7 +4793,7 @@
       "settings": {
         "meta_descr": "Information about Weather Related Extensions",
         "title": "Weather Related Extensions",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -5354,7 +5354,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Non-Compliance",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -5884,7 +5884,7 @@
       "settings": {
         "meta_descr": "Plow up and planting dates",
         "title": "Plow Up and Planting Dates",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -6555,7 +6555,7 @@
       "settings": {
         "meta_descr": "Statutes and Rules pertaining to the Plower Program",
         "title": "Statutes & Rules (Plower)",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -7101,7 +7101,7 @@
       "settings": {
         "meta_descr": "Statutes and Rules pertaining to the ACRPC",
         "title": "Relevant Legal Documents",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -7626,7 +7626,7 @@
       "settings": {
         "meta_descr": "Information about the Seed Breeding Program",
         "title": "Seed Breeding",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -8407,7 +8407,7 @@
       "settings": {
         "meta_descr": "Labels for AF36 and Prevail",
         "title": "Labels",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -8970,7 +8970,7 @@
       "settings": {
         "meta_descr": "Pictures pertaining to the AF36 Program",
         "title": "AF36 Pictures",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -11247,7 +11247,7 @@
       "settings": {
         "meta_descr": "",
         "title": "National Cotton Council",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -11981,7 +11981,7 @@
       "settings": {
         "meta_descr": "Southwest Boll Weevil Eradication Program",
         "title": "Southwest Boll Weevil",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -12713,7 +12713,7 @@
       "settings": {
         "meta_descr": "Insect Eradication Whitefly Program",
         "title": "Whitefly",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -13322,7 +13322,7 @@
       "settings": {
         "meta_descr": "Techniques for identifying sterile pink bollworm",
         "title": "Sterile Insect Technique",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -13966,7 +13966,7 @@
       "settings": {
         "meta_descr": "Current bale assessment rates",
         "title": "Bale Assessment",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -14569,7 +14569,7 @@
       "settings": {
         "meta_descr": "Disclaimers and contact information",
         "title": "Disclaimer & Contact",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -15243,7 +15243,7 @@
       "settings": {
         "meta_descr": "Splash page with links to information about each insect eradication project",
         "title": "Insect Eradication",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -15690,7 +15690,7 @@
       "settings": {
         "meta_descr": "2006 AF36 Report",
         "title": "AF36 2006 Report",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -16242,7 +16242,7 @@
       "settings": {
         "meta_descr": "Objectives of the AF36 Program",
         "title": "AF36 Objectives",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -16786,7 +16786,7 @@
       "settings": {
         "meta_descr": "Purity of the product",
         "title": "AF36 Purity",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -17331,7 +17331,7 @@
       "settings": {
         "meta_descr": "Members of the ACRPC",
         "title": "Members",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -17987,7 +17987,7 @@
       "settings": {
         "meta_descr": "Contact information for the ACRPC staff",
         "title": "Staff",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -18595,7 +18595,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "AF36 Cotton Corn Brochure",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -19218,7 +19218,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "AF36 Pistachio Brochure",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -19912,7 +19912,7 @@
       "settings": {
         "meta_descr": "Pictures pertaining to the seed breeding program",
         "title": "Seed Breeding Pictures",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -21021,7 +21021,7 @@
       "settings": {
         "meta_descr": "Pictures pertaining to the Pink Bollworm Program",
         "title": "PBW Program Pictures",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -22891,7 +22891,7 @@
       "settings": {
         "meta_descr": "ID Card QC Code Link",
         "title": "ID Card",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -23339,7 +23339,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Purchase AF36",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -23893,9 +23893,9 @@
         }
       ]
     },
-    "page33.html": {
+    "careers.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "ACRPC Careers",
         "title": "Careers",
         "order": 1
       },
@@ -24359,7 +24359,7 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b style=\"font-size: 1rem;\">Company Name: </b><span style=\"font-size: 1rem;\">Arizona Cotton Research and Protection Council</span><br></p><p><b>Location: </b>3721 E Wier Ave, Phoenix, AZ\n</p><p><b>Company Description: </b>The Arizona Cotton Research and Protection Council (ACRPC) is a state agency\n&nbsp;<span style=\"font-size: 1rem;\">through which Arizona cotton growers provide funding for research and applied technology to address&nbsp;</span><span style=\"font-size: 1rem;\">industry needs relating to pest control and crop production. Additionally, the ACRPC has authority to&nbsp;</span><span style=\"font-size: 1rem;\">manufacture and sell Aspergillus flavus AF36, a biological control that manages aflatoxin contamination&nbsp;</span><span style=\"font-size: 1rem;\">in crops through the use of a native strain of the fungus that naturally does not produce aflatoxins. This&nbsp;</span><span style=\"font-size: 1rem;\">product is currently used in a number of states and crops in the west and southwestern US.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Job Title and Description</b>: The role of the AF36 Marketing and Sales Associate is to establish retail&nbsp;</span><span style=\"font-size: 1rem;\">distribution, accelerate the adoption rate and enhance sales of AF36 from the Arizona Cotton Research&nbsp;</span><span style=\"font-size: 1rem;\">and Protection Council. This position will promote AF36 to agricultural distributors, retail locations,&nbsp;</span><span style=\"font-size: 1rem;\">salespeople/PCAs, and growers.&nbsp;</span></p><p>Job responsibilities also include management of marketing campaigns, improving marketing functions\n&nbsp;<span style=\"font-size: 1rem;\">surrounding the campaign, determine new markets and how well products are satisfying current&nbsp;</span><span style=\"font-size: 1rem;\">markets, seeking customers in new areas, maintaining relationships with current customers, meeting&nbsp;</span><span style=\"font-size: 1rem;\">with farmers, consumers, agribusiness leaders, and media members.&nbsp;</span></p><p>The AF36 Marketing and Sales Associate also performs other tasks to support the ACRPC staff, including,\n&nbsp;<span style=\"font-size: 1rem;\">but not limited to coordinating exhibition and attendance at trade shows, designing and producing\n&nbsp;</span><span style=\"font-size: 1rem;\">presentations, translating research data into usable sales information and conducting customer\n&nbsp;</span><span style=\"font-size: 1rem;\">discovery research.&nbsp;</span></p><p><b>Essential Duties:\n</b></p><p>Frequent sales calls to develop relationships and learn customer needs and offer correct\n<span style=\"font-size: 1rem;\">solutions.&nbsp;</span></p><p>Provide sound recommendations from knowledge of specific crops, cropping practices, and\n</p><p>mitigation of aflatoxin in these crops.</p><p><span style=\"font-size: 1rem;\">Collaborate with other members of ACRPC to generate leads and provide better service to</span></p><p>growers.\n</p><p>Create and assist in implementation of new products, new processes, and new programs\n</p><p>intended to mutually benefit the vendor, as well as ACRPC.\n</p><p>Maintain records of sales contacts and submit reports on a regular basis.\n</p><p><b>Qualification:\n</b></p><p>A minimum 5-10 years of experience in ag sales is preferred\n</p><p>Bachelor’s Degree in Agronomy or an Ag-related field is preferred\n</p><p>Certified Professional Agronomist is preferred\n</p><p>Certified Crop Advisor is preferred\n</p><p>Must be legally eligible to work in the United States\n</p><p>Must have a valid driver’s license, a clean driving record, and be able to travel out of state.\n</p><p><b>Key Personal Attributes Include:\n</b></p><p>Strong ability to represent AF36 and the Arizona Cotton Research &amp; Protection Council to both&nbsp;<span style=\"font-size: 1rem;\">ag retailers and growers.</span></p><p>A high degree of leadership ability including building relationships, creating direction, and&nbsp;<span style=\"font-size: 1rem;\">execution.</span></p><p>Outstanding interpersonal skills with a strong ability to influence and support the needs of the&nbsp;<span style=\"font-size: 1rem;\">AF36 Program.</span></p><p>Self-motivated, self-starter. Active listener.</p><p><span style=\"font-size: 1rem;\">Flexible and adaptable team player with demonstrated ability to effectively coordinate,&nbsp;</span><span style=\"font-size: 1rem;\">collaborate and engage members of the team.</span></p><p><span style=\"font-size: 1rem;\">Excellent written, verbal, and presentation communications skills.</span></p><p><b>Specific Responsibilities and Key Deliverables Include:\n</b></p><p>Analyze market opportunity by geography.\n</p><p>Develop and implement a marketing strategy for AF36 which aims at actively increasing market&nbsp;<span style=\"font-size: 1rem;\">share and improving financial performance.</span></p><p>Develop relationships with key Agriculture Retailers to create distribution opportunity for AF36</p><p><span style=\"font-size: 1rem;\">Continuously analyze markets and identify marketing related risks and opportunities.</span></p><p>Create and evangelize the value of AF 36 to our retailers and growers – this includes: sales&nbsp;<span style=\"font-size: 1rem;\">meetings, technical meetings, key field day participation, and visibility at key trade shows.</span></p><p>Collaborate with key Arizona Cotton Research and Protection Council team members, to build&nbsp;<span style=\"font-size: 1rem;\">cost and sales stability in the market.</span></p><p><b>Salary and Compensation\n</b></p><p><b> Job Type: </b>Full-time\n</p><p><b> Salary: </b>Negotiable with experience\n</p><p><b> Benefits: </b>Retirement, sick leave, annual leave, medical and dental insurance.</p><p>\n</p><p>The Arizona Cotton Research and Protection Council is an equal opportunity employer.&nbsp;</p><p>If you are interested in this position, you can contact us <a href=\"mailto:info@azcotton.org\" class=\"text-primary\"><u>via email</u></a> or phone at <a href=\"tel:+1-602-438-0059\" class=\"text-primary\"><u>602-438-0059</u></a>.</p><p><a href=\"assets/files/Marketing-andSalesAssociate.pdf\" class=\"text-primary\"><u>Download a PDF</u></a> of this job listing.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Marketing and Sales Associate 1/20/21</b></p><p><b style=\"font-size: 1rem;\">Company Name: </b><span style=\"font-size: 1rem;\">Arizona Cotton Research and Protection Council</span><br></p><p><b>Location: </b>3721 E Wier Ave, Phoenix, AZ\n</p><p><b>Company Description: </b>The Arizona Cotton Research and Protection Council (ACRPC) is a state agency\n&nbsp;<span style=\"font-size: 1rem;\">through which Arizona cotton growers provide funding for research and applied technology to address&nbsp;</span><span style=\"font-size: 1rem;\">industry needs relating to pest control and crop production. Additionally, the ACRPC has authority to&nbsp;</span><span style=\"font-size: 1rem;\">manufacture and sell Aspergillus flavus AF36, a biological control that manages aflatoxin contamination&nbsp;</span><span style=\"font-size: 1rem;\">in crops through the use of a native strain of the fungus that naturally does not produce aflatoxins. This&nbsp;</span><span style=\"font-size: 1rem;\">product is currently used in a number of states and crops in the west and southwestern US.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Job Description</b>: The role of the AF36 Marketing and Sales Associate is to establish retail&nbsp;</span><span style=\"font-size: 1rem;\">distribution, accelerate the adoption rate and enhance sales of AF36 from the Arizona Cotton Research&nbsp;</span><span style=\"font-size: 1rem;\">and Protection Council. This position will promote AF36 to agricultural distributors, retail locations,&nbsp;</span><span style=\"font-size: 1rem;\">salespeople/PCAs, and growers.&nbsp;</span></p><p>Job responsibilities also include management of marketing campaigns, improving marketing functions\n&nbsp;<span style=\"font-size: 1rem;\">surrounding the campaign, determine new markets and how well products are satisfying current&nbsp;</span><span style=\"font-size: 1rem;\">markets, seeking customers in new areas, maintaining relationships with current customers, meeting&nbsp;</span><span style=\"font-size: 1rem;\">with farmers, consumers, agribusiness leaders, and media members.&nbsp;</span></p><p>The AF36 Marketing and Sales Associate also performs other tasks to support the ACRPC staff, including,\n&nbsp;<span style=\"font-size: 1rem;\">but not limited to coordinating exhibition and attendance at trade shows, designing and producing\n&nbsp;</span><span style=\"font-size: 1rem;\">presentations, translating research data into usable sales information and conducting customer\n&nbsp;</span><span style=\"font-size: 1rem;\">discovery research.&nbsp;</span></p><p><b>Essential Duties:\n</b></p><p>Frequent sales calls to develop relationships and learn customer needs and offer correct\n<span style=\"font-size: 1rem;\">solutions.&nbsp;</span></p><p>Provide sound recommendations from knowledge of specific crops, cropping practices, and\n</p><p>mitigation of aflatoxin in these crops.</p><p><span style=\"font-size: 1rem;\">Collaborate with other members of ACRPC to generate leads and provide better service to</span></p><p>growers.\n</p><p>Create and assist in implementation of new products, new processes, and new programs\n</p><p>intended to mutually benefit the vendor, as well as ACRPC.\n</p><p>Maintain records of sales contacts and submit reports on a regular basis.\n</p><p><b>Qualification:\n</b></p><p>A minimum 5-10 years of experience in ag sales is preferred\n</p><p>Bachelor’s Degree in Agronomy or an Ag-related field is preferred\n</p><p>Certified Professional Agronomist is preferred\n</p><p>Certified Crop Advisor is preferred\n</p><p>Must be legally eligible to work in the United States\n</p><p>Must have a valid driver’s license, a clean driving record, and be able to travel out of state.\n</p><p><b>Key Personal Attributes Include:\n</b></p><p>Strong ability to represent AF36 and the Arizona Cotton Research &amp; Protection Council to both&nbsp;<span style=\"font-size: 1rem;\">ag retailers and growers.</span></p><p>A high degree of leadership ability including building relationships, creating direction, and&nbsp;<span style=\"font-size: 1rem;\">execution.</span></p><p>Outstanding interpersonal skills with a strong ability to influence and support the needs of the&nbsp;<span style=\"font-size: 1rem;\">AF36 Program.</span></p><p>Self-motivated, self-starter. Active listener.</p><p><span style=\"font-size: 1rem;\">Flexible and adaptable team player with demonstrated ability to effectively coordinate,&nbsp;</span><span style=\"font-size: 1rem;\">collaborate and engage members of the team.</span></p><p><span style=\"font-size: 1rem;\">Excellent written, verbal, and presentation communications skills.</span></p><p><b>Specific Responsibilities and Key Deliverables Include:\n</b></p><p>Analyze market opportunity by geography.\n</p><p>Develop and implement a marketing strategy for AF36 which aims at actively increasing market&nbsp;<span style=\"font-size: 1rem;\">share and improving financial performance.</span></p><p>Develop relationships with key Agriculture Retailers to create distribution opportunity for AF36</p><p><span style=\"font-size: 1rem;\">Continuously analyze markets and identify marketing related risks and opportunities.</span></p><p>Create and evangelize the value of AF 36 to our retailers and growers – this includes: sales&nbsp;<span style=\"font-size: 1rem;\">meetings, technical meetings, key field day participation, and visibility at key trade shows.</span></p><p>Collaborate with key Arizona Cotton Research and Protection Council team members, to build&nbsp;<span style=\"font-size: 1rem;\">cost and sales stability in the market.</span></p><p><b>Salary and Compensation\n</b></p><p><b> Job Type: </b>Full-time\n</p><p><b> Salary: </b>Negotiable with experience\n</p><p><b> Benefits: </b>Retirement, sick leave, annual leave, medical and dental insurance.</p><p>\n</p><p>The Arizona Cotton Research and Protection Council is an equal opportunity employer.&nbsp;</p><p>If you are interested in this position, you can contact us <a href=\"mailto:info@azcotton.org\" class=\"text-primary\"><u>via email</u></a> or phone at <a href=\"tel:+1-602-438-0059\" class=\"text-primary\"><u>602-438-0059</u></a>.</p><p><a href=\"assets/files/Marketing-andSalesAssociate.pdf\" class=\"text-primary\"><u>Download a PDF</u></a> of this job listing.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "smFjFLgFt4",
           "_anchor": "content1-c0",
           "_protectedParams": [],
